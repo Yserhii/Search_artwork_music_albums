@@ -1,0 +1,6 @@
+framework module Pods_Search_artwork_music_albums {
+  umbrella header "Pods-Search_artwork_music_albums-umbrella.h"
+
+  export *
+  module * { export * }
+}
